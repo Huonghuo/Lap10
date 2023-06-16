@@ -2,8 +2,15 @@
 /* Style the form to a fixed width so the form looks the same
 	 even if the browser window is resize
 */
+body{
+	background-color:#b9b1cd;
+}
 form {
-	width 				: 50em;
+	width 				: 50%;
+	text-align:center;
+	padding:20px;
+	background-color:#f4eaf1;
+	
 }
 
 /* Style the labels and input by aligning all input fields 
