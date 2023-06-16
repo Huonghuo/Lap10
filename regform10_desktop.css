@@ -58,7 +58,7 @@ regform{
 	 note that declarations are inherited 
 */
 .buttoninput {
-	text-align 		: right;
+	text-align 		: ;
 }
 .buttoninput input {
 	width					: auto;
