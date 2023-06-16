@@ -4,6 +4,7 @@
 */
 body{
 	background-color:#b9b1cd;
+	text-align:center;
 }
 form {
 	width 				: 50%;
@@ -17,14 +18,17 @@ form {
 */
 label {
 	float 				: left;
-	text-align		: right;
+	text-align		: center;
 	width 				: 10em;
 	margin-right	: 1em;
 }
 input {
 	width 				: 50%;
 }
-
+regform{
+	text-align:center;
+}
+	
 /* Style text input to have spacing between input fields
 */
 .textinput {
@@ -47,7 +51,7 @@ input {
 }
 .radioinput label  {
 	float 				: none;		/* clears the inherited float left */
-	text-align		: left;		/* reset inherited alignment to left */
+	text-align		: center;		/* reset inherited alignment to left */
 }
 
 /* Style  button input 
